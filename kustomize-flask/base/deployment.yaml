@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-user
-        image: peerapach/argo-workflow:01e6529
+        image: sutthiphong2005/argo-workflow:01e6529
         ports:
         - containerPort: 5000
         resources:
